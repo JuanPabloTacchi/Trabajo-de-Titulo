@@ -1,0 +1,5 @@
+NAME: ShapeTrain
+DATA_PATH: /path/to/dataset//test
+N_POINTS: 10000
+PC_PATH: /path/to/dataset//test
+IMAGE_PATH: /path/to/dataset//test

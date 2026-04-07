@@ -1,0 +1,5 @@
+NAME: ShapeTrain_Embed
+DATA_PATH: /path/to/dataset//train
+N_POINTS: 10000
+PC_PATH: /path/to/dataset//train
+IMAGE_PATH: /path/to/dataset//train

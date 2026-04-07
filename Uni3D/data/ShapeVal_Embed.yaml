@@ -1,0 +1,5 @@
+NAME: ShapeVal_Embed
+DATA_PATH: /path/to/dataset//val
+N_POINTS: 10000
+PC_PATH: /path/to/dataset//val
+IMAGE_PATH: /path/to/dataset//val

@@ -1,0 +1,5 @@
+NAME: ShapeTest_Embed
+DATA_PATH: /path/to/dataset//test_new_encoder1
+N_POINTS: 10000
+PC_PATH: /path/to/dataset//test_new_encoder1
+IMAGE_PATH: /path/to/dataset//test_new_encoder1
