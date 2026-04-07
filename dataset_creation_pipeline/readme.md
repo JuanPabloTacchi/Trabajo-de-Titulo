@@ -10,7 +10,8 @@ The dataset focuses on **3D representations of Peruvian vessels**, combining geo
 
 The generated dataset follows a hierarchical multimodal structure:
 
- dataset/
+```
+dataset/
 │
 ├── object_1/
 │   ├── image_1/
@@ -23,6 +24,7 @@ The generated dataset follows a hierarchical multimodal structure:
 │
 ├── object_2/
 │   └── ...
+```
 
 
 Each object contains:
